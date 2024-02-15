@@ -7,3 +7,7 @@ openweathermap.org의 날씨 API를 사용했다.
 
 무료로 사용할 수 있는 날씨 예보 기능 중에 '3h for 5days'가 있었다
 3시간 간격으로 5일치 데이터를 확인할 수 있다 => 총 40개
+
+-----
+
+2024/02/16 : key 값이 노출되어 있어서 해당 repository는 private 상태로 해두었음. 추후에 public으로 변경하자.
