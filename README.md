@@ -16,4 +16,4 @@ weather.com의 날씨 API는 유료인 관계로, openweathermap.org의 날씨 A
 
 2024/02/16 : key 값이 노출되어 있어서 해당 repository는 private 상태로 해두었음. 추후에 public으로 변경하자.
 
-2024/03/06 : 코드에 있는 key는 disactive 상태로 바꿔놓음
+2024/03/06 : 코드에 있는 key는 Inactive 상태로 바꿔놓음
